@@ -1,4 +1,4 @@
-**HTML Basics**:
+**HTML Basics Project**:
 - Semantic markup
 - Formatting page content
 - Understanding file paths
