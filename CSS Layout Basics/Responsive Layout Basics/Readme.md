@@ -1,2 +1,1 @@
-**Responsive Design Assignment**
-Intro to utilizing Flexbox 
+**Responsive Design Assignment** :Intro to utilizing Flexbox 
