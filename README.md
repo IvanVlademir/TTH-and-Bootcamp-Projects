@@ -1,5 +1,5 @@
 # TTH-and-Bootcamp-Projects
-**Programming Projects &amp; Challenges from Team Treehouse &amp; Bootcamps**
+**Programming Projects, Assignments, &amp; Challenges from Team Treehouse &amp; Bootcamps**
 
 Collection of the projects I worked on during TTH & Bootcamp (CS) trainings.
 My training will mainly focus on:
