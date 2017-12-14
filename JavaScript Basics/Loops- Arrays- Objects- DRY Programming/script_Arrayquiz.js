@@ -1,3 +1,5 @@
+//Assignment: Create simple quiz using arrays, added 2D array
+
 var questions = [
   ['How many states are in the United States?', 50],
   ['How many continents are there?', 7],
