@@ -1,2 +1,6 @@
 
-JS basic Loops, Arrays, Objects, DRY Programming Assignments.
+**JS Basic Assignments:**
+- Loops
+- Arrays
+- Objects
+- DRY Programming
