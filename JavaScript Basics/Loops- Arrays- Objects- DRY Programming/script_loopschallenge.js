@@ -1,3 +1,5 @@
+//basic refactoring using loop & functions assignment. 
+
 var html = '';
 var rgbColor;
 
