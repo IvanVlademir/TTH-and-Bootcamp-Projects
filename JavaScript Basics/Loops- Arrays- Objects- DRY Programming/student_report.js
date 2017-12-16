@@ -1,3 +1,5 @@
+//objects assignment; file holding faunctional code 
+
 var message = '';
 var student;
 var search;
