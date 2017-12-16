@@ -1,3 +1,5 @@
+//objects assignment; file holding studnet obecjts
+
 var students = [ 
   { 
    name: 'Dave',
