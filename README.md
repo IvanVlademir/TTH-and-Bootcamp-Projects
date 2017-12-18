@@ -9,4 +9,4 @@ My training will mainly focus on:
 - Java
 - App-Sec
 
-*Started trainings on Novmber, 2017.* 
+*Started trainings in Novmber, 2017.* 
