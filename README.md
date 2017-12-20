@@ -4,11 +4,12 @@
 *Organized like a SharePoint Document site* 
 
 Collection of the source code & files for projects/assignemtns I worked on during TTH & Bootcamp (CS) trainings.
-My training will mainly focus on:
+My training will mainly focus on learning:
 - Full-Stack JS
-- DevOps
+- Full-Stack RoR
 - Python
 - Java
+- DevOps
 - App-Sec
 
 *Started trainings in Novmber, 2017.* 
