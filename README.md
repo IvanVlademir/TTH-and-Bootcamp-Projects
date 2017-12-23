@@ -12,4 +12,4 @@ My training will mainly focus on learning:
 - DevOps
 - App-Sec
 
-*Started trainings in Novmber, 2017.* 
+*Started trainings in Novmber, 2017 - ongoing.* 
