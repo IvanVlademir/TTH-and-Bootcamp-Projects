@@ -1,4 +1,4 @@
-**Optimization Basics**
+**Optimization Basics:**
 
 *minified example page*
 
