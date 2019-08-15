@@ -7,6 +7,6 @@ Collection of the source code & files for the projects/assignments I worked on d
 
 This repo is mainly for FullStack JavaScript trainings. 
 
-*Started trainings in Novmber, 2016 - ongoing
+*Started trainings in Novmber, 2016 - ongoing*
 
 MIT License
