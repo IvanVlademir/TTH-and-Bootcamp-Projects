@@ -1,4 +1,4 @@
-# FullStack JS|TTH & Bootcamp Projects - IVS
+# FullStack JS|TTH & Bootcamp Projects
 **Programming Projects, Assignments, &amp; Challenges from Team Treehouse &amp; CS Bootcamps**
 
 *Organized like a SharePoint Document site.* 
